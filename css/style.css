@@ -1,0 +1,27 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{ 
+padding-top:40px;
+background:black;
+}
+
+#SVGpath {
+	display:block;
+	
+	}
+	
+.navbar-brand{
+	width:140px;
+	background-image:url(../img/logo.png) ;
+	background-repeat:no-repeat;
+	background-position: center center;
+	}
+	
+.jumbotron {
+	height:500px;
+	background-image:url(../img/jumbotron_back.jpg);
+	color:#fff;
+	
+	
+	}

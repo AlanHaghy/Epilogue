@@ -8,9 +8,7 @@ background:black;
 
 }
 
-.navbar {
-	font-family: 'Teko', sans-serif;
-	}
+.navbar {font-family: 'Teko', sans-serif}
 
 #SVGpath {
 	display:block;
@@ -35,3 +33,6 @@ background:black;
 	margin-top: 2.6em;
 	line-height:0.6em;
 	}
+
+div .row h2 {font-family: 'Teko', sans-serif;color:#ddd; margin: 10px 0 10px 0}
+div .row p {color:#6F6F6F}
